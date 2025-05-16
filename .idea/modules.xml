@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Adaptive-AI-Interface.iml" filepath="$PROJECT_DIR$/.idea/Adaptive-AI-Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Adaptive AI Trust Simulator/.idea/Adaptive AI Trust Simulator.iml" filepath="$PROJECT_DIR$/../Adaptive AI Trust Simulator/.idea/Adaptive AI Trust Simulator.iml" />
     </modules>
   </component>
 </project>
