@@ -10,6 +10,9 @@ It demonstrates concepts such as:
 - Highlights: AI adapting its behavior to match user trust levels.
 - Demonstrates user engagement with AI in a visual analytics setting using the Iris dataset.
 
+## Working Demo:
+
+https://adaptive-ai-interface-demo.streamlit.app/
 ## How to Run
 
 1.  Save the code as a Python file (e.g., `app.py`).
@@ -27,6 +30,4 @@ The application will open in your web browser.
 
 <br>
 ___________________________________________________________________________________________________________
-Working Demo:
 
-https://adaptive-ai-interface-demo.streamlit.app/
