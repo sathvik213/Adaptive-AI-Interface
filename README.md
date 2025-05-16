@@ -12,7 +12,8 @@ It demonstrates concepts such as:
 
 ## Working Demo:
 
-https://adaptive-ai-interface-demo.streamlit.app/
+https://adaptive-ai-trust-simulator-demo.streamlit.app/
+
 ## How to Run
 
 1.  Save the code as a Python file (e.g., `app.py`).
