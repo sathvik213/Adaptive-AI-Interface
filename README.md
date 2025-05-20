@@ -7,7 +7,6 @@ The code simulates AI behavior using simple rule-based logic and probabilities f
 It demonstrates concepts such as:
 - Shows how trust in AI adjusts based on its performance and mistakes.
 - Explores how a user's expertise shapes their interaction with AI.
-- Highlights: AI adapting its behavior to match user trust levels.
 - Explores how users interact with AI in a visual analytics environment using the Iris dataset
 
 ## Working Demo(sometimes it might take more time to load, so please hang on!!):
