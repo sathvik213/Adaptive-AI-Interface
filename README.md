@@ -9,6 +9,10 @@ It demonstrates concepts such as:
 - Explores how a user's expertise shapes their interaction with AI.
 - Explores how users interact with AI in a visual analytics environment using the Iris dataset
 
+## Project Diagram
+
+![Project Overview](diagram.png)
+
 ## Working Demo(sometimes it might take more time to load, so please hang on!!):
 
 https://adaptive-ai-trust-simulator-demo.streamlit.app/
