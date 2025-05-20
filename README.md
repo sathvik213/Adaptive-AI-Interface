@@ -8,7 +8,7 @@ It demonstrates concepts such as:
 - Shows how trust in AI adjusts based on its performance and mistakes.
 - Explores how a user's expertise shapes their interaction with AI.
 - Highlights: AI adapting its behavior to match user trust levels.
-- Demonstrates user engagement with AI in a visual analytics setting using the Iris dataset.
+- Explores how users interact with AI in a visual analytics environment using the Iris dataset
 
 ## Working Demo(sometimes it might take more time to load, so please hang on!!):
 
