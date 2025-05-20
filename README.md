@@ -10,7 +10,7 @@ It demonstrates concepts such as:
 - Highlights: AI adapting its behavior to match user trust levels.
 - Demonstrates user engagement with AI in a visual analytics setting using the Iris dataset.
 
-## Working Demo:
+## Working Demo(sometimes it might take more time to load, so please hang on!!):
 
 https://adaptive-ai-trust-simulator-demo.streamlit.app/
 
