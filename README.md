@@ -18,7 +18,7 @@ Watch the explanation video of the work:
 Kindly ignore the noise around, and I am just checking my frame on my computer constantly instead of looking at the cam!
 [![Watch the Video](https://img.youtube.com/vi/caxAyv9KyK8/0.jpg)](https://www.youtube.com/watch?v=caxAyv9KyK8)
 
-## Working Demo(sometimes it might take more time to load, so please hang on!!):
+## Working Demo(sometimes it might take more time to load, so please hang on  feel free to run it locally!!):
 
 https://adaptive-ai-trust-simulator-demo.streamlit.app/
 
